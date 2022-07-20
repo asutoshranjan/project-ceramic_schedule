@@ -2,6 +2,9 @@
 
 ![Asset 12](https://user-images.githubusercontent.com/81508078/179844692-c4eb0cbf-1c6d-4fc4-8b18-11a0063e6c54.png)<br />
 <br />
+**Download the App :** [Schedule.apk](https://drive.google.com/file/d/1SAepnuEg8SRekUxJ2JkzIAOKE-tOCSYP/view?usp=sharing)
+<br />
+<br />
 Getting all the latest class updates and schedule was a tedious task during online classes. In order to solve this problem for me and my classmates I made a simple and easy to use Schedule App using Flutter for the apps frontend powered by Firebase, using firebase cloud firestore as the database for storing data of class schedule activities exams etc. Also it uses firebase cloud messaging for sending app notification to the user regarding classes, extra-class or exam details. Used by almost 50 daily active users for checking and monitoring class updates it really eased the communication between professors, students and the class representatives.
 
 ## Getting Started
